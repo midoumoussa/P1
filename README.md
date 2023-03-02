@@ -1,3 +1,3 @@
 # P1
-Itec project
+Itec project. 
 Welcome to my project
